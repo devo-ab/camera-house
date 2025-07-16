@@ -1,4 +1,21 @@
-.font-poppins{
+.font-poppins {
     font-family: "Poppins", sans-serif;
     font-style: normal;
+}
+
+.text-black-gray {
+    color: #3A3A3A;
+}
+
+.dashed-border {
+    border: 2px dashed #6c757d;
+    /* or any color you want */
+}
+
+.svg-bg-example {
+    background-image: url('/assets/images/Circle\ design.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* or contain, or 100% 100% */
+    background-position: center;
 }
