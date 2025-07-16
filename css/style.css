@@ -7,6 +7,11 @@
     color: #3A3A3A;
 }
 
+.text-banner{
+    font-size: 52px;
+    line-height: 70px;
+}
+
 .dashed-border {
     border: 2px dashed #6c757d;
     /* or any color you want */
