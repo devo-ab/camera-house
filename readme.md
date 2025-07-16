@@ -63,7 +63,7 @@ To run this project on your computer:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/camera-house.git
+   git clone https://github.com/devo-ab/camera-house.git
    cd camera-house
 
 
