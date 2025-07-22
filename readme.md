@@ -38,6 +38,7 @@ camera-house/
 │   └── logos/              # Logos and icons
 ├── css/
 │   └── style.css           # Custom CSS styles
+├── preview                 # Preview images
 ├── index.html              # Main landing page
 └── README.md               # Project documentation
 ```
@@ -47,13 +48,13 @@ camera-house/
 ## 📸 Screenshots
 
 ### 🖼️ Hero Section
-![Hero](assets/hero.png)
+![Hero](./preview/hero.png)
 
 ### 🖼️ Products Section
-![Products](assets/products.png)
+![Products](./preview/products.png)
 
 ### 🖼️ Full Preview
-![Preview](assets/preview.png)
+![Preview](./preview/preview.png)
 
 ---
 
